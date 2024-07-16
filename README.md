@@ -11,6 +11,10 @@ But hold on, let me set the record straight—I'm not the real Marty McFly, just
 While we keep things fun and light, it's important to stay respectful and avoid any bogus topics that don't fit into our time-traveling escapades. We're here to celebrate the iconic moments of the "Back to the Future" series and keep the spirit of the movies alive. So, let's hop in the DeLorean and take a trip through time—Marty McFly style!
 
 #
+
+![Marty](https://github.com/user-attachments/assets/644d0249-3565-4acd-91d1-893652513984)
+
+#
 ### Related Links
 
 [Willy Wonka Chat](https://github.com/sourceduty/Willy_Wonka_Chat)
