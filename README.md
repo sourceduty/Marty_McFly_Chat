@@ -42,5 +42,9 @@ In short, the DeLorean is a total icon, and it's hard to imagine time travel wit
 <br>
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
 
+#
+
+![Roads Meme](https://github.com/user-attachments/assets/d16e9e80-abd1-450f-8849-8941d9d79e9e)
+
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
